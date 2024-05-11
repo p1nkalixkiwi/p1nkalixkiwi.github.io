@@ -1,0 +1,54 @@
+BODY { 
+  background-color:#f3ffe6ec;
+}
+.content {
+  margin: 0 7.45%;
+}
+H1 {
+  background-color:#99f18d;
+  font-size:2.55EM;
+  font-family: "Times New Roman", serif;
+  text-shadow:2PX -2PX 1PX  #F2F2F2 ;
+}
+NAV {
+  background-color:#8be483dc; 
+  position:sticky;
+  top:0%;
+  padding: 20px;
+}
+
+NAV A:hover {
+  color:#c6ffc6; 
+  background-color: #76ee8a;
+  padding: 20px;
+}
+ 
+NAV A {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 25PX;
+  margin: 0% 25px;
+  padding: 20px;
+}
+H2 {
+  text-shadow:2PX -2PX 1PX  #F2F2F2 ;
+  font-size:2.55EM;
+}
+P {
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:1.30EM;
+}
+
+.FULL-WIDTH {
+  height:215PX;
+  width: 100%;
+}
+LI{
+  background-color: #d3ffc2dc;
+  font-size:1.30EM;
+  margin-bottom: 0.9em;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+TD{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
